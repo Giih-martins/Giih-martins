@@ -18,7 +18,7 @@
 
 ---
 
-### Sobre mim
+### 🙋‍♀️ Sobre mim
 
 Me chamo Giovana e estou cursando **Engenharia de Software na Universidade de Brasília (UnB/FCTE)**. Gosto de entender como um software nasce do começo ao fim: desde levantar requisitos e pensar na experiência de quem vai usar, até escrever o código e garantir a qualidade.
 
@@ -81,9 +81,13 @@ Ao longo da graduação passei por **Interação Humano-Computador, Requisitos d
 
 ### 📊 Estatísticas
 
-<p>
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Giih-martins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Linguagens mais usadas" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giih-martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+<p align="center">
+  <img alt="Resumo do perfil" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giih-martins&theme=tokyonight" />
+  <img alt="Linguagens mais usadas" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giih-martins&theme=tokyonight" />
+</p>
+<p align="center">
+  <img alt="Estatísticas do GitHub" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giih-martins&theme=tokyonight" />
+  <img alt="Horário mais produtivo" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giih-martins&theme=tokyonight&utcOffset=-3" />
 </p>
 
 ---
