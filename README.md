@@ -83,7 +83,6 @@ Ao longo da graduação passei por **Interação Humano-Computador, Requisitos d
 
 <p align="center">
   <img alt="Resumo do perfil" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giih-martins&theme=tokyonight" />
-  <img alt="Linguagens mais usadas" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giih-martins&theme=tokyonight" />
 </p>
 <p align="center">
   <img alt="Estatísticas do GitHub" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giih-martins&theme=tokyonight" />
